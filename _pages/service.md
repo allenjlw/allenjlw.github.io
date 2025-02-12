@@ -5,6 +5,11 @@ permalink: /service/
 author_profile: true
 ---
 
+Organization Committee Member
+======
+ASAP'25, local arrangement chair <br/>
+IWQoS'25, publicity chair <br/>
+
 Conference TPC member
 ======
 AsiaCCS'2025, USENIX Security'2025, ICDCS'2025 <br/>

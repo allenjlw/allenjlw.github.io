@@ -4,6 +4,14 @@ title: ""
 permalink: /publications/
 author_profile: true
 ---
+
+
+**Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
+M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik. In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025 [[BibTex]]()[[PDF]]() <br/>
+
+**A Thorough Security Analysis of BLE Proximity Tracking Protocols**<br/>
+Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, and Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]]() <br/>
+
 **VeriBin: Adaptive Verification of Patches at the Binary Level**<br/>
 Hongwei Wu, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi. In Proceedings of The Network and Distributed System Security (NDSS) Symposium, 2025
 [[BibTex]]()[[PDF]]()<br/>

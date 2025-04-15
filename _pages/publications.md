@@ -14,11 +14,11 @@ Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan
 
 **VeriBin: Adaptive Verification of Patches at the Binary Level**<br/>
 Hongwei Wu, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi. In Proceedings of The Network and Distributed System Security (NDSS) Symposium, 2025
-[[BibTex]]()[[PDF]]()<br/>
+[[BibTex]]()[[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-359-paper.pdf)<br/>
 
 **Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations**<br/>
 Jianliang Wu, Patrick Traynor, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the USENIX Security Symposium (Security), 2024
-[[BibTex]]()[[PDF]](https://allenjlw.github.io/pdfpapers/bleprivacy.pdf)<br/>
+[[BibTex]](https://allenjlw.github.io/portfolio/bleprivacy-bib/)[[PDF]](https://allenjlw.github.io/pdfpapers/bleprivacy.pdf)<br/>
 
 **SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth**<br/>
 Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024

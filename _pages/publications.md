@@ -9,6 +9,9 @@ author_profile: true
 **Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
 M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik. In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025 [[BibTex]]()[[PDF]]() <br/>
 
+**MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers**<br/>
+Xiangpu Song, Jianliang Wu, Yingpei Zeng, Hao Pan, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]]() <br/>
+
 **A Thorough Security Analysis of BLE Proximity Tracking Protocols**<br/>
 Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, and Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]]() <br/>
 

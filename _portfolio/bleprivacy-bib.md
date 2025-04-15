@@ -1,3 +1,10 @@
+---
+title: "BibTex"
+excerpt: "TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms"
+<!-- collection: portfolio -->
+---
+
+<pre>
 @inproceedings {294502,
 author = {Jianliang Wu and Patrick Traynor and Dongyan Xu and Dave (Jing) Tian and Antonio Bianchi},
 title = {Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations},
@@ -10,3 +17,4 @@ url = {https://www.usenix.org/conference/usenixsecurity24/presentation/wu-jianli
 publisher = {USENIX Association},
 month = aug
 }
+</pre>

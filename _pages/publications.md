@@ -7,16 +7,16 @@ author_profile: true
 
 
 **Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
-M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik. In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025 [[BibTex]]()[[PDF]]() <br/>
+M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik. In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025 [[BibTex]]()[[PDF]](https://petsymposium.org/popets/2025/popets-2025-0084.pdf) <br/>
 
 **MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers**<br/>
-Xiangpu Song, Jianliang Wu, Yingpei Zeng, Hao Pan, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]]() <br/>
+Xiangpu Song, Jianliang Wu, Yingpei Zeng, Hao Pan, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-596-song-xiangpu.pdf) <br/>
 
 **A Thorough Security Analysis of BLE Proximity Tracking Protocols**<br/>
-Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, and Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]]() <br/>
+Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, and Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-224-liu-xiaofeng.pdf) <br/>
 
 **VeriBin: Adaptive Verification of Patches at the Binary Level**<br/>
-Hongwei Wu, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi. In Proceedings of The Network and Distributed System Security (NDSS) Symposium, 2025
+Hongwei Wu, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi. In Proceedings of the Network and Distributed System Security (NDSS) Symposium, 2025
 [[BibTex]]()[[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-359-paper.pdf)<br/>
 
 **Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations**<br/>

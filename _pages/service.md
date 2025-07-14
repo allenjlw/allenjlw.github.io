@@ -20,7 +20,7 @@ CSAW Applied Research Competition, 2021
 
 Journal Reviewer
 ======
-Transactions on Dependable and Secure Computing (TDSC), 2022, 2023 <br/>
+Transactions on Dependable and Secure Computing (TDSC), 2022, 2023, 2024 <br/>
 IEEE Internet of Things Journal, 2024 <br/>
 IEEE Transactions on Dependable and Secure Computing, 2022 <br/>
 Journal of Information Security and Applications, 2022 <br/>

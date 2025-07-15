@@ -5,12 +5,12 @@ permalink: /publications/
 author_profile: true
 ---
 
-## Conference Papers
+# Conference Papers
 
 **Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine** <br/>
 Tan Khang Le, Mohammad Omidvar Tehrani, Yuepeng Wang, Jianliang Wu, Steven Y. Ko.
 In Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom), 2025.
-[[BibTex]]()[[PDF]]()
+[[BibTex]]()[[PDF]]()<br/>
 
 **Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
 M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik.
@@ -105,7 +105,7 @@ Guangdong Bai, Jianan Hao, Jianliang Wu, Yang Liu, Zhenkai Liang, and Andrew Mar
 In International Symposium on Formal Methods (FM), 2014.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-trustfound/)[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_8)
 
-## Journal Publications
+# Journal Publications
 
 **Securing Bluetooth Across Layers: A Systematic Review of Protection Strategies** <br/>
 Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. 2025.

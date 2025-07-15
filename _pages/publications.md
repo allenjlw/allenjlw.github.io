@@ -10,7 +10,8 @@ author_profile: true
 **Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine** <br/>
 Tan Khang Le, Mohammad Omidvar Tehrani, Yuepeng Wang, Jianliang Wu, Steven Y. Ko.
 In Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom), 2025.
-[[BibTex]]()[[PDF]]()<br/>
+[[BibTex]]()[[PDF]]()
+
 **Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
 M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik.
 In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025.
@@ -69,7 +70,7 @@ In Proceedings of the USENIX Security Symposium (Security), 2021.
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
 Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, and Dongyan Xu.
 In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
-[[BibTex]](https://allenjlw.github.io/portfolio/bib-blesa/)[[PDF]](https://allenjlw.github.io/pdfpapers/blesa.pdf)[[Attack Demo]](https://allenjlw.github.io/talks/blesa_demo/)[[Talk]](https://allenjlw.github.io/talks/blesa_talk/)<br/>
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-blesa/)[[PDF]](https://allenjlw.github.io/pdfpapers/blesa.pdf)[[Attack Demo]](https://allenjlw.github.io/talks/blesa_demo/)[[Talk]](https://allenjlw.github.io/talks/blesa_talk/)
 <span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span><br/>
 **Media Coverage:**
 [[ZDNet]](https://www.zdnet.com/article/billions-of-devices-vulnerable-to-new-blesa-bluetooth-security-flaw/)

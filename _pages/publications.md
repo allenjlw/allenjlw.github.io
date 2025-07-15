@@ -5,46 +5,71 @@ permalink: /publications/
 author_profile: true
 ---
 
+## Conference Papers
+
+**Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine** <br/>
+Tan Khang Le, Mohammad Omidvar Tehrani, Yuepeng Wang, Jianliang Wu, Steven Y. Ko.
+In Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom), 2025.
+[[BibTex]]()[[PDF]]()
 
 **Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
-M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik. In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025 [[BibTex]]()[[PDF]](https://petsymposium.org/popets/2025/popets-2025-0084.pdf) <br/>
+M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik.
+In Proceedings of the Privacy Enhancing Technologies (PoPETS), 2025.
+[[BibTex]]()[[PDF]](https://petsymposium.org/popets/2025/popets-2025-0084.pdf) <br/>
 
 **MBFuzzer: A Multi-Party Protocol Fuzzer for MQTT Brokers**<br/>
-Xiangpu Song, Jianliang Wu, Yingpei Zeng, Hao Pan, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-596-song-xiangpu.pdf) <br/>
+Xiangpu Song, Jianliang Wu, Yingpei Zeng, Hao Pan, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo.
+In Proceedings of the USENIX Security Symposium (Security), 2025.
+[[BibTex]]()[[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec25cycle1-prepub-596-song-xiangpu.pdf) <br/>
 
 **A Thorough Security Analysis of BLE Proximity Tracking Protocols**<br/>
-Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, and Shanqing Guo. In Proceedings of the USENIX Security Symposium (Security), 2025 [[BibTex]]()[[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-224-liu-xiaofeng.pdf) <br/>
+Xiaofeng Liu, Chaoshun Zuo, Qinsheng Hou, Pengcheng Ren, Jianliang Wu, Qingchuan Zhao, and Shanqing Guo.
+In Proceedings of the USENIX Security Symposium (Security), 2025.
+[[BibTex]]()[[PDF]](https://www.usenix.org/system/files/conference/usenixsecurity25/sec24winter-prepub-224-liu-xiaofeng.pdf) <br/>
 
 **VeriBin: Adaptive Verification of Patches at the Binary Level**<br/>
-Hongwei Wu, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi. In Proceedings of the Network and Distributed System Security (NDSS) Symposium, 2025
+Hongwei Wu, Jianliang Wu, Ruoyu Wu, Ayushi Sharma, Aravind Machiry, and Antonio Bianchi.
+In Proceedings of the Network and Distributed System Security (NDSS) Symposium, 2025.
 [[BibTex]]()[[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2025-359-paper.pdf)<br/>
 
+**MiniBLE: Exploring Insecure BLE API Usages in Mini-Programs** <br/>
+Zidong Zhang, Jianqi Du, Wenrui Diao, and Jianliang Wu.
+In Proceedings of the ACM Workshop on Secure and Trustworthy Superapps (SaTS), 2024.
+[[BibTex]]()[[PDF]]()
+
 **Finding Traceability Attacks in the Bluetooth Low Energy Specification and Its Implementations**<br/>
-Jianliang Wu, Patrick Traynor, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the USENIX Security Symposium (Security), 2024
+Jianliang Wu, Patrick Traynor, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi.
+In Proceedings of the USENIX Security Symposium (Security), 2024.
 [[BibTex]](https://allenjlw.github.io/portfolio/bleprivacy-bib/)[[PDF]](https://allenjlw.github.io/pdfpapers/bleprivacy.pdf)<br/>
 
 **SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth**<br/>
-Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi.
+In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2024.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-btsok/)[[PDF]](https://allenjlw.github.io/pdfpapers/btsok.pdf)<br/>
 
 **Are You Spying on Me? Large‑Scale Analysis on IoT Data Exposure through Companion Apps**<br/>
-Yuhong Nan, Xueqiang Wang, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, and XiaoFeng Wang. In Proceedings of the USENIX Security Symposium (Security), 2023
+Yuhong Nan, Xueqiang Wang, Luyi Xing, Xiaojing Liao, Ruoyu Wu, Jianliang Wu, Yifan Zhang, and XiaoFeng Wang.
+In Proceedings of the USENIX Security Symposium (Security), 2023.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-iotprofiler/)[[PDF]](https://allenjlw.github.io/pdfpapers/iotprofiler.pdf)<br/>
 
 **Formal Model-Driven Discovery of Bluetooth Protocol Design Vulnerabilities**<br/>
-Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2022
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi.
+In Proceedings of the IEEE Symposium on Security and Privacy (S&P), 2022.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-btverif/)[[PDF]](https://allenjlw.github.io/pdfpapers/btverif.pdf)[[Teaser Talk]](https://www.youtube.com/watch?v=ETXDSytyJzA&list=PL0pRF4xvoD0kDG7jJ6-muUa_Mj8wH-7kp&index=62)[[Full Talk]]()[[Code]](https://github.com/purseclab/btmodel_proverif)[[Attack Demo]](https://drive.google.com/file/d/1-o6WtUqJ0GHhWsHmlwKy5b5_t8_zEMnZ/view)<br/>
 
 **ProFactory: Improving IoT Security via Formalized Protocol Customization**<br/>
-Fei Wang, Jianliang Wu, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer. In Proceedings of the USENIX Security Symposium (Security), 2022
+Fei Wang, Jianliang Wu, Yuhong Nan, Yousra Aafer, Xiangyu Zhang, Dongyan Xu, and Mathias Payer.
+In Proceedings of the USENIX Security Symposium (Security), 2022.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-profactory/)[[PDF]](https://allenjlw.github.io/pdfpapers/profactory.pdf)<br/>
 
 **LIGHTBLUE: Automatic Profile-Aware Debloating of Bluetooth Stacks**<br/>
-Jianliang Wu, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. In Proceedings of the USENIX Security Symposium (Security), 2021
+Jianliang Wu, Ruoyu Wu, Daniele Antonioli, Mathias Payer, Nils Ole Tippenhauer, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi.
+In Proceedings of the USENIX Security Symposium (Security), 2021.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-lightblue/)[[PDF]](https://allenjlw.github.io/pdfpapers/lightblue.pdf)[[Talk]](https://allenjlw.github.io/talks/lightblue_talk/)[[Code]](https://github.com/purseclab/lightblue)[[Poster]](https://raw.githubusercontent.com/allenjlw/allenjlw.github.io/master/pdfpapers/lbposter.pdf)<br/>
 
 **BLESA: Spoofing Attacks against Reconnections in Bluetooth Low Energy**<br/>
-Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, and Dongyan Xu. In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
+Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Mathias Payer, and Dongyan Xu.
+In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2020. (12/36)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blesa/)[[PDF]](https://allenjlw.github.io/pdfpapers/blesa.pdf)[[Attack Demo]](https://allenjlw.github.io/talks/blesa_demo/)[[Talk]](https://allenjlw.github.io/talks/blesa_talk/)<br/>
 <span style="color:red">Best Paper Award &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; CSAW'20 Applied Research Competition Finalist</span><br/>
 **Media Coverage:**
@@ -60,23 +85,39 @@ Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Dave (Jing) Tian, Antonio Bianchi, Ma
 [[Myce.com]](https://www.myce.com/news/blesa-bluetooth-flaw-affects-iot-devices-94440/) and many more.
 
 **BlueShield: Detecting Spoofing Attacks in Bluetooth Low Energy (BLE) Networks**<br/>
-Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu. In Proceedings of the International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
+Jianliang Wu, Yuhong Nan, Vireshwar Kumar, Mathias Payer, and Dongyan Xu.
+In Proceedings of the International Symposium on Research in Attacks, Intrusions and Defenses (RAID), 2020. (31/121)
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-blueshield/)[[PDF]](https://allenjlw.github.io/pdfpapers/blueshield.pdf)[[Talk]](https://allenjlw.github.io/talks/blueshield_talk/)[[Code]](https://github.com/allenjlw/BlueShield)
 
 **All your sessions are belong to us: Investigating authenticator leakage through backup channels on android**<br/>
-Guangdong Bai, Jun Sun, Jianliang Wu, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo. In Proceedings of the International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
+Guangdong Bai, Jun Sun, Jianliang Wu, Quanqi Ye, Li Li, Jin Song Dong, and Shanqing Guo.
+In Proceedings of the International Conference on Engineering of Complex Computer Systems (ICECCS), 2015.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-all-your/)[[PDF]](https://ieeexplore.ieee.org/abstract/document/7384230)<br/>
 <span style="color:red">Best Paper Award</span>
 
-**PaddyFrog: systematically detecting confused deputy vulnerability in Android applications**<br/>
-Jianliang Wu, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui. Security and Communication Networks (SCN), vol. 8 no. 13 (2015): 2338-2349.
-[[BibTex]](https://allenjlw.github.io/portfolio/bib-paddyfrog/)[[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))
-
 **Automatically Detecting Ssl Error-Handling Vulnerabilities in Hybrid Mobile Web Apps**<br/>
-Chaoshun Zuo, Jianliang Wu, and Shanqing Guo. In Proceedings of the ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2015.
+Chaoshun Zuo, Jianliang Wu, and Shanqing Guo.
+In Proceedings of the ACM Symposium on Information, Computer and Communications Security (ASIACCS), 2015.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-ssl-error/)[[PDF]](https://dl.acm.org/citation.cfm?id=2714583)
 
 **TrustFound: Towards a Formal Foundation for Model Checking Trusted Computing Platforms**<br/>
-Guangdong Bai, Jianan Hao, Jianliang Wu, Yang Liu, Zhenkai Liang, and Andrew Martin. In International Symposium on Formal Methods (FM), 2014.
+Guangdong Bai, Jianan Hao, Jianliang Wu, Yang Liu, Zhenkai Liang, and Andrew Martin.
+In International Symposium on Formal Methods (FM), 2014.
 [[BibTex]](https://allenjlw.github.io/portfolio/bib-trustfound/)[[PDF]](https://link.springer.com/chapter/10.1007/978-3-319-06410-9_8)
 
+## Journal Publications
+
+**Securing Bluetooth Across Layers: A Systematic Review of Protection Strategies** <br/>
+Jianliang Wu, Ruoyu Wu, Dongyan Xu, Dave (Jing) Tian, and Antonio Bianchi. 2025.
+GetMobile: Mobile Comp. and Comm. 29, 1 (2025), 5–8.
+[[BibTex]]()[[PDF]]()
+
+**CSFuzzer: A grey-box fuzzer for network protocol using context-aware state feedback** <br/>
+Xiangpu Song, Yingpei Zeng, Jianliang Wu, Hao Li, Chaoshun Zuo, Qingchuan Zhao, Shanqing Guo.
+Computers & Security, Volume 157, (2025), 104581.
+[[BibTex]]()[[PDF]]()
+
+**PaddyFrog: systematically detecting confused deputy vulnerability in Android applications**<br/>
+Jianliang Wu, Tingting Cui, Tao Ban, Shanqing Guo, and Lizhen Cui.
+Security and Communication Networks (SCN), vol. 8 no. 13 (2015): 2338-2349.
+[[BibTex]](https://allenjlw.github.io/portfolio/bib-paddyfrog/)[[PDF]]((https://onlinelibrary.wiley.com/doi/full/10.1002/sec.1179))

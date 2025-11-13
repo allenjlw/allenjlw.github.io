@@ -10,7 +10,7 @@ author_profile: true
 **Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine** <br/>
 Tan Khang Le, Mohammad Omidvar Tehrani, Yuepeng Wang, Jianliang Wu, Steven Y. Ko.
 In Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom), 2025.
-[[BibTex]]()[[PDF]]()
+[[BibTex]]()[[PDF]](https://allenjlw.github.io/pdfpapers/btl2cap.pdf)
 
 **Why Am I Seeing Double? An Investigation of Device Management Flaws in Voice Assistant Platforms**<br/>
 M. Ozgur Ozmen, M. Oguz Sakaoglu, Jackson Bizjak, Jianliang Wu, Antonio Bianchi, Dave (Jing) Tian, and Z. Berkay Celik.

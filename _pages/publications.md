@@ -7,6 +7,11 @@ author_profile: true
 
 # Conference Papers
 
+**ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification**<br/>
+Xiangpu Song, Longjia Pei, Jianliang Wu, Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, Xiaofeng Liu, Qingchuan Zhao, Shanqing Guo.
+In Proceedings of the Network and Distributed System Security (NDSS) Symposium, 2026.
+[[BibTex]]()[[PDF]]()<br/>
+
 **Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine** <br/>
 Tan Khang Le, Mohammad Omidvar Tehrani, Yuepeng Wang, Jianliang Wu, Steven Y. Ko.
 In Proceedings of the Annual International Conference on Mobile Computing and Networking (MobiCom), 2025.

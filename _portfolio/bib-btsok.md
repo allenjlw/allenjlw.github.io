@@ -8,7 +8,7 @@ excerpt: "SoK: The Long Journey of Exploiting and Defending the Legacy of King H
 @INPROCEEDINGS {btsok,
 author = {Jianliang Wu and Ruoyu Wu and Dongyan Xu and Dave (Jing) Tian and Antonio Bianchi},
 booktitle = {2024 IEEE Symposium on Security and Privacy (SP)},
-title = {{SoK: The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth}},
+title = {{SoK}: {The Long Journey of Exploiting and Defending the Legacy of King Harald Bluetooth}},
 year = {2024},
 volume = {},
 issn = {2375-1207},

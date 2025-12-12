@@ -6,6 +6,14 @@ author_profile: true
 ---
 
 ## Instructor
+CMPT201 Systems Programming, Summer 2026
+
+CMPT403 System Security and Privacy, Fall 2025
+
+CMPT479/982 Systems Security Research and Necessary Techniques, Fall 2025
+
+CMPT479/982 Mobile Security, Spring 2025
+
 CMPT789 Applied Crypto, Fall 2024
 
 CMPT471 Networking II, Spring 2024

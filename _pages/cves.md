@@ -4,15 +4,17 @@ title: ""
 permalink: /cves/
 author_profile: true
 ---
-Samsung Find My Mobile: Bad Use of ECDH during Binding SmartTag, awarded a $2,500 bug bounty.
+Google Android (Yuan Ye): $3,000 bug bounty.
 
-Samsung Find My Mobile: Device tracking via BLE advertisements, awarded a $400 bug bounty.
+Samsung Find My Mobile (Xiaofeng Liu): Bad Use of ECDH during Binding SmartTag, awarded a $2,500 bug bounty.
 
-Samsung Find My Mobile: Device tracking via BLE advertisements and public keys, awarded a $800 bug bounty.
+Samsung Find My Mobile (Xiaofeng Liu): Device tracking via BLE advertisements, awarded a $400 bug bounty.
 
-Samsung Find My Mobile: Unauthorized rebinding vulnerability in SmartTag, awarded a $2,500 bug bounty.
+Samsung Find My Mobile (Xiaofeng Liu): Device tracking via BLE advertisements and public keys, awarded a $800 bug bounty.
 
-Samsung Find My Mobile: Weak Key of Encrypt-offline-location Function, awarded a $200 bug bounty.
+Samsung Find My Mobile (Xiaofeng Liu): Unauthorized rebinding vulnerability in SmartTag, awarded a $2,500 bug bounty.
+
+Samsung Find My Mobile (Xiaofeng Liu): Weak Key of Encrypt-offline-location Function, awarded a $200 bug bounty.
 
 Bluetooth MAC address (BD_ADDR) reuse [CVE-2023-21307](https://source.android.com/docs/security/bulletin/android-14), awarded a $5,000 bug bounty.
 

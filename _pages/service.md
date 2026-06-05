@@ -12,7 +12,7 @@ IWQoS'25, publicity chair <br/>
 
 Conference TPC member
 ======
-IEEE S&P'2026 <br/>
+IEEE S&P'2026, USENIX Security'2026, ACM CCS'2026, RAID'2026, EAI SmartSP 2026 <br/>
 USENIX Security'2025, AsiaCCS'2025, ICDCS'2025, SLICE'2025 <br/>
 RAID'2024, IEEE MASS'2024, SmartSP'2024 <br/>
 IEEE/ACIS International Conference on Software Engineering, Management and Applications (SERA), 2022 <br/>

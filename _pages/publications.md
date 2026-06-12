@@ -14,7 +14,7 @@ In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2026.
 **ProtocolGuard: Detecting Protocol Non-compliance Bugs via LLM-guided Static Analysis and Dynamic Verification**<br/>
 Xiangpu Song, Longjia Pei, Jianliang Wu, Yingpei Zeng, Gaoshuo He, Chaoshun Zuo, Xiaofeng Liu, Qingchuan Zhao, Shanqing Guo.
 In Proceedings of the Network and Distributed System Security (NDSS) Symposium, 2026.
-[[BibTex]]()[[PDF]]()<br/>
+[[BibTex]]()[[PDF]](https://www.ndss-symposium.org/wp-content/uploads/2026-f521-paper.pdf)<br/>
 
 **Formalization, Implementation, and Verification of the Bluetooth L2CAP State Machine** <br/>
 Tan Khang Le, Mohammad Omidvar Tehrani, Yuepeng Wang, Jianliang Wu, Steven Y. Ko.

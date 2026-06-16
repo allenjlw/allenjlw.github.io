@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Conference Papers
-**FuzzBT: Holistic‑State‑Guided Fuzzing for Bluetooth Host Stack in Kernels**</br>
+**FuzzBT: Holistic‑State‑Guided Fuzzing for Bluetooth Host Stack in Kernels**<br/>
 Sungwoo Kim, Hui Peng, Imtiaz Karim, Ruoyu Wu, Jianliang Wu, Elisa Bertino, Mathias Payer, Dave (Jing) Tian.
 In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2026.
 [[BibTex]]()[[PDF]]()<br/>

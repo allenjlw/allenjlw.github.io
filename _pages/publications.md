@@ -6,6 +6,16 @@ author_profile: true
 ---
 
 # Conference Papers
+**Mini-Programs, Mega-Problems: Unveiling OAuth-based Authentication Misuses in Mini-Programs via Dynamic Analysis**<br/>
+Zidong Zhang, Zhentao Xie, Lingyun Ying, Qinsheng Hou, Yacong Gu, Wenrui Diao, Jianliang Wu.
+In Proceedings of the ACM SIGSAC Conference on Computer and Communications Security (CCS), 2026.
+[[BibTex]]()[[PDF]]()<br/>
+
+**"Tap" Without Tapping: A Tag Discovery Forgery Attack on Android NFC**<br/>
+Yilin Li, Jianliang Wu, Chaoshun Zuo, Qingchuan Zhao, Xiaofeng Liu, Xiangpu Song, Chengyu Hu, and Shanqing Guo.
+In Proceedings of the USENIX Security Symposium (Security), 2026.
+[[BibTex]]()[[PDF]]()<br/>
+
 **FuzzBT: Holistic‑State‑Guided Fuzzing for Bluetooth Host Stack in Kernels**<br/>
 Sungwoo Kim, Hui Peng, Imtiaz Karim, Ruoyu Wu, Jianliang Wu, Elisa Bertino, Mathias Payer, Dave (Jing) Tian.
 In Proceedings of the USENIX Workshop on Offensive Technologies (WOOT), 2026.
